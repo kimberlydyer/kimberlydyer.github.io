@@ -37,7 +37,7 @@ linkedin_username: kimberlyndyer
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/dyerprofilepic.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi! I'm Kimberly Dyer, and I'm a technical writer, educator, librarian, reader, wrtier.
+  Hi! I'm Kimberly Dyer, and I'm a technical writer, educator, librarian, reader, writer.
 
 content:
   - title: Projects # Title for the section
@@ -63,9 +63,9 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: top-left
+      - layout: left
         title: Cypress-Fairbanks ISD
-        sub_title: Educator (2016-2022)
+        sub_title: Educator, Leader (2016-2022)
         description: | # this will include new lines to allow paragraphs
           - Duty 1
           - Duty 2
@@ -82,18 +82,19 @@ content:
     content:
       - layout: top-left
         title: Drexel University, 2013
-        sub_title: M.S. Information Systems
-        sub_title: M.S. Library and Information Science
+        sub_title: 
+        M.S. Information Systems
+        M.S. Library and Information Science
         description: | # this will include new lines to allow paragraphs
           Learned information systems and project management.
           How to integrate digital libraries in databases.
           Peer mentor.
-      - layout: top-right
+      - layout: top-left
         title: The University of Texas at Austin, 2010
         sub_title: B.A. English, Government minor
         description: | # this will include new lines to allow paragraphs
           Learned how to integrade digital libraries with databases.
-  - title: A Little More About Me
+  - title: Skills 
     layout: text
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
