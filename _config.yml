@@ -70,24 +70,27 @@ content:
           - Duty 1
           - Duty 2
           - Duty 3
+      - layout: left
+        title: Harris County Public Library
+        sub_title: Librarian (2013-2016)
+        description: | # this will include new lines to allow paragraphs
+          - Duty 1
+          - Duty 2
+          - Duty 3
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Drexel University
+      - layout: top-left
+        title: Drexel University, 2013
         sub_title: M.S. Information Systems
-        caption: 2013
-        quote: >
-          Short institution or course description (optional)
+        sub_title: M.S. Library and Information Science
         description: | # this will include new lines to allow paragraphs
           Learned information systems and project management.
-    content:
+          How to integrate digital libraries in databases.
+          Peer mentor.
       - layout: top-right
-        title: Drexel University
-        sub_title: M.S. Library and Information Science
-        caption: 2013
-        quote: >
-          Short institution or course description (optional)
+        title: The University of Texas at Austin, 2010
+        sub_title: B.A. English, Government minor
         description: | # this will include new lines to allow paragraphs
           Learned how to integrade digital libraries with databases.
   - title: A Little More About Me
