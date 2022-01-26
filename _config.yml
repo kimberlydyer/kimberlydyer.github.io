@@ -61,7 +61,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
   - title: Experience
-    layout: text
+    layout: list
     content:
       - layout: left
         title: Cypress-Fairbanks ISD
@@ -80,7 +80,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-left
+      - layout: left
         title: Drexel University, 2013
         sub_title: |
           M.S. Information Systems
@@ -89,17 +89,16 @@ content:
           Learned information systems and project management.
           How to integrate digital libraries in databases.
           Peer mentor.
-      - layout: top-left
+      - layout: left
         title: The University of Texas at Austin, 2010
         sub_title: B.A. English, Government minor
         description: | # this will include new lines to allow paragraphs
-          Learned how to integrade digital libraries with databases.
+          Learned how to integrate digital libraries with databases.
   - title: Skills 
     layout: text
     content: | # this will include new lines to allow paragraphs
       I have so many skills. I know HTML, CSS, GitHub, YAML. Leadership. Teamwork.
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
