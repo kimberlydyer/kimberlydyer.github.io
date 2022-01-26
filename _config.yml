@@ -83,8 +83,8 @@ content:
       - layout: top-left
         title: Drexel University, 2013
         sub_title: 
-        M.S. Information Systems
-        M.S. Library and Information Science
+        - M.S. Information Systems
+        - M.S. Library and Information Science
         description: | # this will include new lines to allow paragraphs
           Learned information systems and project management.
           How to integrate digital libraries in databases.
