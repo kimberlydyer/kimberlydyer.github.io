@@ -35,7 +35,7 @@ linkedin_username: kimberlyndyer
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: /images/dyerprofilepic.jpg)
+about_profile_image: images/dyerprofilepic.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi! I'm Kimberly Dyer, and I'm a technical writer, educator, librarian, reader, wrtier.
 
