@@ -47,7 +47,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Practice STAAR Test Login Instructions
-        link: /Users/kimberlydyer/Desktop/kimberlydyer/kimberlydyer.github.io/_pdfs/Practice STAAR Login Instructions.pdf
+        link: https://github.com/kimberlydyer/kimberlydyer.github.io/blob/master/_pdfs/STAAR_Login.pdf
         link_text: View
         img: images/dyerprofilepic.JPG
         description: | # this will include new lines to allow paragraphs
