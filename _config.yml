@@ -37,19 +37,21 @@ linkedin_username: kimberlyndyer
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/dyerprofilepic.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi! I'm Kimberly Dyer, and I'm a technical writer, educator, librarian, reader, writer.
+  I have over a decade of experience as an information professional in educational, government, and nonprofit sectors. 
+  I enjoy learning new technologies and guiding others as they do the same, which is why I'm making the transition 
+  from education to technical writing.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        border:  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Practice STAAR Test Login Instructions
         link: https://github.com/kimberlydyer/kimberlydyer.github.io/blob/master/_pdfs/STAAR_Login.pdf
         link_text: View
-        icon: images/dyerprofilepic.JPG
+        image: images/dyerprofilepic.JPG
         description: | # this will include new lines to allow paragraphs
           Instructions to guide 9th grade students on how to log on to the practice STAAR exam.
           The guide was created using Google Docs and set up so that students with little-to-no technological skill
