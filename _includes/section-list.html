@@ -21,11 +21,15 @@
     </div>
     
     <div class="row clearfix">
-      {%- if site.image -%}
+      {%- if site.project_image -%}
         <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-          <span class="profile-img" style="background-image: url({{ site.about_profile_image | relative_url }})"></span>
+          <span class="project-img" style="background-image: url({{ site.project_image | relative_url }})"></span>
         </div>
       {%- endif -%}
+      <div class="{{ 'col-xs-12 ' }}{%- if site.project_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
+        {{ site.about_content | strip | markdownify }}
+      </div>
+    </div>
 
     <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
       {%- if item.quote -%}
