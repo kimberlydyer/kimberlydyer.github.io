@@ -47,9 +47,9 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Practice STAAR Test Login Instructions
-        link: _pdfs/Practice STAAR Login Instructions.pdf
+        link: /Users/kimberlydyer/Desktop/kimberlydyer/kimberlydyer.github.io/_pdfs/Practice STAAR Login Instructions.pdf
         link_text: View
-        quote: Short overview of the project (optional)
+        img: images/dyerprofilepic.JPG
         description: | # this will include new lines to allow paragraphs
           Instructions to guide 9th grade students on how to log on to the practice STAAR exam.
           The guide was created using Google Docs and set up so that students with little-to-no technological skill
