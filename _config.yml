@@ -49,7 +49,7 @@ content:
         title: Practice STAAR Test Login Instructions
         link: https://github.com/kimberlydyer/kimberlydyer.github.io/blob/master/_pdfs/STAAR_Login.pdf
         link_text: View
-        img: images/dyerprofilepic.JPG
+        icon: images/dyerprofilepic.JPG
         description: | # this will include new lines to allow paragraphs
           Instructions to guide 9th grade students on how to log on to the practice STAAR exam.
           The guide was created using Google Docs and set up so that students with little-to-no technological skill
